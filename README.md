@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=180&section=header&text=Hey,%20It's%20ShahEd!👩🏻%20%F0%9F%91%8B&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=180&section=header&text=Hey,%20It's%20ShahEd!👩🏻%20&fontSize=50)
 
 
                        A 4th year Computer Engineering student at Birzeit University 💻 
