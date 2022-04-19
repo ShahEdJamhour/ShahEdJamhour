@@ -13,8 +13,8 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ShahEdJamhour&count_private=true&theme=moltack&hide_border=true" alt = "ShahEd's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ShahEdJamhour&count_private=true&theme=buefy-dark&hide_border=true" alt = "ShahEd's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=ShahEdJamhour&count_private=true&theme=midnight-purple&hide_border=true" alt = "ShahEd's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ShahEdJamhour&count_private=true&theme=midnight-purple&hide_border=true" alt = "ShahEd's Rating" width = 400 >
 
 </p>
 
