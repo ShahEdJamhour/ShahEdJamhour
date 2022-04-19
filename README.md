@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey,%20It's%20Shahed👩🏻%20%F0%9F%91%8B&fontSize=50)
 
-- Hey it's ShahEd! 👩🏻  A 4th year Computer Engineering student at Birzeit University 💻 
-- currently learining flutter ⏳
+
+                       A 4th year Computer Engineering student at Birzeit University 💻 
 
 
 <br />
@@ -25,7 +25,7 @@
 
 
 <br />
-<h2 align="center"> Visitors Number 👀</h2>
+<h2 align="center"> Number of visitors 👀</h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/ShahEdJamhour/count.svg"></img>
 </div>
