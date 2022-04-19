@@ -2,7 +2,6 @@
 
 - Hey it's ShahEd! 👩🏻  A 4th year Computer Engineering student at Birzeit University 💻 
 - currently learining flutter ⏳
-- 
 
 
 <br />
