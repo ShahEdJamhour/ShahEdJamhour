@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey,%20It's%20Shahed👩🏻%20%F0%9F%91%8B&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hey,%20It's%20ShahEd👩🏻%20%F0%9F%91%8B&fontSize=50)
 
 
                        A 4th year Computer Engineering student at Birzeit University 💻 
@@ -14,7 +14,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ShahEdJamhour&count_private=true&theme=moltack&hide_border=true" alt = "ShahEd's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ShahEdJamhour&count_private=true&theme=moltack&hide_border=true" alt = "ShahEd's Rating" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ShahEdJamhour&count_private=true&theme=buefy-dark&hide_border=true" alt = "ShahEd's Rating" width = 400 >
 
 </p>
 
