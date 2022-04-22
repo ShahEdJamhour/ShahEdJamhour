@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=180&section=header&text=Hey,%20It's%20ShahEd!👩🏻%20&fontSize=50)
 
 
-                       A 4th year Computer Engineering student at Birzeit University 💻 
+                          A 4th year Computer Engineering student at Birzeit University 💻
+               
 
 
 <br />
@@ -24,6 +25,17 @@
 </p>
 
 
+
+
+
+<br/>
+
+<a href="https://github.com/ShahEdJamhour/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=ShahEdJamhour&theme=dracula&hide_border=true" /></a>
+<br/>
+
+
+
+
 <br />
 <h2 align="center"> Number of visitors 👀</h2>
 <div align="center" >
@@ -31,7 +43,7 @@
 </div>
 
 <br /><br />
-<h2 align="center"> Wanna connect?✉ </h2>
+<h2 align="center">  connect?✉ </h2>
 <p align="center">
   <a href = "mailto:TheShahed11@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/sh8h9d/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
