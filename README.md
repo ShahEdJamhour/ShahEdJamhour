@@ -1,13 +1,13 @@
 
 
-<h2 align='center'> <i> Hey there! its Shahed, a 4th year Computer Engineering student at Birzeit University 💻👩🏻</h2>  
+<h2 align='center'> <i> Hey there! it's Shahed, a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
 
                         
                
 
 
 <br />
-
+<p align='center'>
   
   <p align = "center">
  
