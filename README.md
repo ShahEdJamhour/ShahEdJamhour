@@ -1,6 +1,6 @@
 
 
-<h2 align='center'> <i>Hey there! it's ShahEd,a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
+<h2 align='center'> <i>Hey,it's ShahEd! a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
 
                         
                
