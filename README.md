@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=180&section=header&text=Hey,%20It's%20ShahEd!👩🏻%20&fontSize=50)
 
 
-                          A 4th year Computer Engineering student at Birzeit University 💻
+<h2 align='center'> <i> Hey there! its Shahed, a 4th year Computer Engineering student at Birzeit University 💻👩🏻</h2>  
+
+                        
                
 
 
 <br />
 
-<h2 align="center">Quick Overview 📈</h2>
   
   <p align = "center">
  
