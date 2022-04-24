@@ -1,4 +1,4 @@
- ><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
 
 <h2 align='center'> <i>Hey, it's ShahEd! a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
   
@@ -19,8 +19,17 @@
 </p>
 
 <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ShahEdJamhour&count_private=true&theme=midnight-purple&hide_border=true" alt = "ShahEd's Contribution" width = 400 >
  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ShahEdJamhour&count_private=true&theme=midnight-purple&hide_border=true" alt = "ShahEd's Rating" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ShahEdJamhour&count_private=true&theme=midnight-purple&hide_border=true" alt = "ShahEd's Rating" width = 400>
+ 
+
+<a href="https://www.linkedin.com/in/sh8h9d/"><img align="left" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
+
+
+
+
 
 </p>
 
