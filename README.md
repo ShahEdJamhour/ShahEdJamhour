@@ -1,11 +1,11 @@
-
-
-<h2 align='center'> <i>Hey,it's ShahEd! a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
-  
-  
-  
-  
  ><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
+<h2 align='center'> <i>Hey, it's ShahEd! a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
+  
+  
+  
+  
+
 
                         
                
@@ -26,7 +26,7 @@
 
 <p align = "center">
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ShahEdJamhour&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Shahed's Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ShahEdJamhour&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Shahed's Languages/Frameworks" width = 440 />
 </p>
 
 
