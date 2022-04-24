@@ -1,6 +1,11 @@
 
 
 <h2 align='center'> <i>Hey,it's ShahEd! a 4th-year Computer Engineering student at Birzeit University💻👩🏻</h2>  
+  
+  
+  
+  
+ ><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
                         
                
